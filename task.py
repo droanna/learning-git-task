@@ -1,6 +1,7 @@
 shopping_list = {
     "piekarnia" : ["chleb", "bułki", "pączek"],
-    "warzywniak" : ["marchew", "seler", "rukola"]
+    "warzywniak" : ["marchew", "seler", "rukola"],
+    "drogeria" : ["szampon", "krem", "odżywka"]
 }
 
 count = 0
