@@ -10,3 +10,4 @@ for key, values in shopping_list.items():
     print(f"Idę do {key.capitalize()} i kupuję tam: {new_values}")
     count += len(values)
 print(f"W sumie kupuję {count} produktów.")
+print("Za dużo zakupów")
